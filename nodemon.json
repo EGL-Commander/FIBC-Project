@@ -1,0 +1,5 @@
+{
+  "ignore": ["data/*", "*.log", "logs/*"],
+  "watch": ["*.js", "config/**/*.js", "controllers/**/*.js", "middleware/**/*.js", "models/**/*.js", "routes/**/*.js", "services/**/*.js", "utils/**/*.js", "validators/**/*.js"],
+  "ext": "js,mjs"
+}

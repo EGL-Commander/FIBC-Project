@@ -1,0 +1,1 @@
+var e=`/assets/fibc-facility-DJ_nmQnD.jpg`;export{e as t};
